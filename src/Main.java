@@ -7,8 +7,7 @@ public class Main {
 
     private static void featureX() {	// fixed typo:)
         // do something.
-        System.out.println("New Brunch2");
-        System.out.println("Hi This is Chico. Both x and y is the best");
+        System.out.println("y is the best");
     }
     private static void featureY() {	// fixed typo:(
         // do something.
