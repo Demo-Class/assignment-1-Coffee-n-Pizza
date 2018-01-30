@@ -9,4 +9,7 @@ public class Main {
         System.out.println("New Brunch2");
         System.out.println("Hi This is Chico");
     }
+    public void freatureY() {
+        // do something.
+    }
 }
