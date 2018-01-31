@@ -7,5 +7,6 @@ public class Main {
 
     private static void featureX() {
         // do something.
+        System.out.println("...");
     }
 }
