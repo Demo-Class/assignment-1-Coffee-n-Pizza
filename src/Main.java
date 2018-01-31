@@ -1,6 +1,17 @@
 public class Main {
 
     public static void main(String[] args) {
+        System.out.println("X is the best feature");
+    }
+
+}
+
+
+/*
+
+public class Main {
+
+    public static void main(String[] args) {
 	    feature();
     }
 
@@ -9,3 +20,4 @@ public class Main {
         System.out.println("Hello World!");
     }
 }
+*/
