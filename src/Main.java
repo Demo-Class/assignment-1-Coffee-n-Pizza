@@ -1,7 +1,7 @@
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("X is the best feature");
+        System.out.println("Y is the best feature");
     }
 
 }
